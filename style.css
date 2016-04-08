@@ -2,7 +2,18 @@ h1{
   font-size: 40px;
   text-align: center;
 }
-#container {
+#menubar {
   border: solid black;
-  text-align: left;
+  float:left;
+  width: 30%;
+}
+
+#container {
+  float: left;
+  width: 30%;
+}
+
+#socialmedia{
+  float: right;
+  width: 30%;
 }
