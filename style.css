@@ -119,9 +119,16 @@ h2{
 
 #dates{
   font-size: 20px;
-  font-weight: bolder;
-
 }
 #foodtruckimg{
   padding-left: 20px;
+}
+#paragraph{
+  font-size:30px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#missionpic{
+  padding-left: 300px;
 }
